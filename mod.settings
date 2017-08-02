@@ -1,0 +1,7 @@
+name        = "[Shine] AllTalk Reset"
+source_dir  = "source/"
+output_dir  = "output/"
+description = [=[Runs "sv_alltalk false" automatically at the end of a round, before a map change and when a new map is loaded.  (Alpha)]=]
+image       = "preview.jpg"
+tag_modtype = "Tool"
+tag_support = ""
