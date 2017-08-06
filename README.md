@@ -1,4 +1,4 @@
-# AllTalk Reset
+# Shine Extension:  AllTalk Reset
 Sometimes AllTalk is enabled and forgotten about.  This setting will not disable itself on map change or server restart so unfortunately, a server could be stuck in AllTalk mode for an entire day before an Admin can be reached.  This Shine Extension will automatically run "sh_alltalk false" to disable AllTalk on Round End, before a Map Cycle and after a Map Load.
 
 ## Requirements
